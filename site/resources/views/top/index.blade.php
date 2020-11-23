@@ -1,6 +1,15 @@
 <html>
+<head>
+<link rel="stylesheet" href="/css/app.css">
+</head>
+<body>
 <h1>トップページどすえ</h1>
-    Topページ <br>
-    一覧ページ<br>
-    動画閲覧ページ<br>
+
+<ul>
+    <li>Topページ</li>
+    <li>一覧ページ</li>
+    <li>動画閲覧ページ</li>
+</ul>
+</body>
+
 </html>
