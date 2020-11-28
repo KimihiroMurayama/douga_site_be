@@ -4,4 +4,4 @@ os: linux
 files:
 # パスはappspec.ymlがある場所がルート & カレント ディレクトリになる
 - source: /
-  destination: /var/www/website/deploy_test
+  destination: /var/www/website/douga_site_be
