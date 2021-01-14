@@ -17,6 +17,21 @@
 </div>
 
 <div class="inner">
+<h2>ランキング</h2>
+<div class="slider02">
+<div><img src="http://placehold.jp/300x300.png"></div>
+<div><img src="http://placehold.jp/300x300.png"></div>
+<div><img src="http://placehold.jp/300x300.png"></div>
+<div><img src="http://placehold.jp/300x300.png"></div>
+<div><img src="http://placehold.jp/300x300.png"></div>
+<div><img src="http://placehold.jp/300x300.png"></div>
+<div><img src="http://placehold.jp/300x300.png"></div>
+<div><img src="http://placehold.jp/300x300.png"></div>
+<div><img src="http://placehold.jp/300x300.png"></div>
+</div>
+</div>  
+
+<div class="inner">
 <h2>おすすめコンテンツ</h2>
 <div class="slider02">
 <div><img src="http://placehold.jp/300x300.png"></div>
@@ -29,7 +44,7 @@
 <div><img src="http://placehold.jp/300x300.png"></div>
 <div><img src="http://placehold.jp/300x300.png"></div>
 </div>
-</div>
+</div>  
 @endsection
 
 @section('pageJs')
