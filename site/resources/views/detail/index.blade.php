@@ -11,7 +11,7 @@
 
 @section('content')
 <div class="inner">
-<h2>動画閲覧ページです。</h2>
+<h2>動画閲覧ページです！</h2>
 <video id="video" class="video-js vjs-default-skin vjs-big-play-centered" controls="" preload="auto" width="1054" height="640">
     </video>
     </div>
